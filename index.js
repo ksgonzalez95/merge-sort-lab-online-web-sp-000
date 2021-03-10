@@ -7,7 +7,7 @@ function findMin(firstHalf, secondHalf){
   let minfirstHalf = firstHalf[0]
   let minsecondHalf = secondHalf[0]
 
-function findMinAndRemoveSorted=(1,2,3,4); 
+function findMinAndRemoveSorted = (1,2,3,4); 
 
   if(minfirstHalf < minsecondHalf){
     return minfirstHalf
